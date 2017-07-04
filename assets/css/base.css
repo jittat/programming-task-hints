@@ -1,0 +1,12 @@
+body {
+    font-family: 'Pridi', serif;
+}
+
+h1,h2 {
+    font-family: 'Mitr', sans-serif;
+}
+
+.task-items .title {
+    font-weight: bold;
+    font-size: 120%;
+}
